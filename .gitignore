@@ -1,0 +1,58 @@
+### Custom ###
+**/.DS_Store
+
+### Default ###
+HELP.md
+.gradle
+build/
+!gradle/wrapper/gradle-wrapper.jar
+!**/src/main/**/build/
+!**/src/test/**/build/
+logs/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+bin/
+!**/src/main/**/bin/
+!**/src/test/**/bin/
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+### Claude ###
+CLAUDE.md
+.claude/
+.claude-cache/
+claude/
+claude.log
+claude*.log
+claude*.json
+claude-config.json
+claude-config.yaml
+claude-settings.json
+claude-history.json
+claude/settings.local.json
+.anthropic/
+.anthropic_config
