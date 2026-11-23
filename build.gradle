@@ -6,7 +6,7 @@ plugins {
 
 group = 'com.faysal'
 version = '0.0.1-SNAPSHOT'
-description = 'AllExistingTechs'
+description = 'rest-skeleton'
 
 java {
     toolchain {

@@ -1,13 +1,13 @@
-package com.faysal.allexistingtechs;
+package com.faysal.rest.skeleton;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class AllExistingTechsApplication {
+public class RestSkeletonApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(AllExistingTechsApplication.class, args);
+		SpringApplication.run(RestSkeletonApplication.class, args);
 	}
 
 }
